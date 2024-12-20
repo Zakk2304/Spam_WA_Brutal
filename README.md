@@ -7,6 +7,6 @@ apt install git
 
 git clone https://github.com/Zakk2304/Spam_WA_Brutal
 
-chmod +x Spam_WA_Brutal.py
+chmod +x main.sh
 
-./Spam_WA_Brutal.py
+./main.sh
